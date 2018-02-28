@@ -9,6 +9,7 @@ O objetivo desse guia é trazer sugestões e orientações de conduta para uma c
 - Bullying, termos inadequados, intimidação, perseguição, comportamento rude, ofensivo ou desrespeitoso também não são bem-vindos.
 - O desacordo é inevitável, mas quando acontecer assuma primariamente que as pessoas envolvidas estavam bem intencionadas.  
 - Lembre-se que estamos em uma rede mundial, já que existem usuários em diversos fusos nos canais, tente entender o contexto das conversas e interagir. Se preferir inicie um novo assunto com uma pergunta direta e clara, ou então compartilhe sua opinião, mas lembre-se que estes sistemas não são real-time-chat, mande a mensagem e aguarde os usuários do grupo interagirem a seu tempo.
+- Não alimente os trolls :)
 
 ##  2. Licença
 
