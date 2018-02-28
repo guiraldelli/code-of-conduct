@@ -16,4 +16,4 @@ O objetivo desse guia é trazer sugestões e orientações de conduta para uma c
 
 ## 3. Autor e mantenedor do projeto
 
-O Autor original é o Guto Carvalho (gutocarvalho@gmail.com). Essa versão foi adaptada para condizer com a opinião do grupo Euro^HExpat^HimigrantePython^HStallmanHatersBrasil. 
+O autor original é o Guto Carvalho (gutocarvalho@gmail.com). Essa versão foi adaptada para condizer com a opinião do grupo Euro^HExpat^HimigrantePython^HStallmanHatersBrasil. 
