@@ -17,7 +17,7 @@ Para o relato de má conduta, recomenda-se o seguinte procedimento:
 1. Responda a uma das mensagens ofensivas, de maneira respeitosa, explicando a razão pela qual acredita que o presente código de conduta foi ferido e peça que a conversação se mantenha respeitosa. O texto da mensagem deve conter a tag `#coc`.
 2. Se a atitude ofensiva se repetir, enderece o administrador do grupo (via referência ao seu usuário), publicamente no grupo, pedindo intervenção de arbitrativa. Novamente, o texto da mensagem deve conter a tag `#coc`.
 
-### 3. Arbitragem
+## 3. Arbitragem
 
 Atualmente, o processo de arbitragem é inexistente.
 
