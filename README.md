@@ -5,7 +5,7 @@ O objetivo desse guia é trazer sugestões e orientações de conduta para uma c
 ## 1. Orientações
 
 - Respeito e consideração são importantes para manter uma conversacão sádia em um grupo diverso. 
-- Temas a como deficiências, aparência física, raça, gênero, orientação sexual, credo ou pornografia tendem a ser delicados e controversos. Cada indivíduo tem seus próprios valores, crenças e culturas. Assim evite conteúdo (_e.g._, comentários, imagens, áudio, vídeos, GIFs) que possam diretamente ofender outros membros do grupo.
+- Temas como deficiências, aparência física, raça, gênero, orientação sexual, credo ou pornografia tendem a ser delicados e controversos. Cada indivíduo tem seus próprios valores, crenças e culturas. Assim evite conteúdo (_e.g._, comentários, imagens, áudio, vídeos, GIFs) que possam diretamente ofender outros membros do grupo.
 - “Bullying”, intimidação, perseguição, comportamento rude, ofensivo, desrespeitoso ou calunioso também devem ser evitados.
 - O desacordo é inevitável, mas quando acontecer assuma primariamente que as pessoas envolvidas estavam bem intencionadas.  
 - Lembre-se que estamos em uma rede mundial, já que existem usuários em diversos fusos nos canais, tente entender o contexto das conversas e interagir. Se preferir inicie um novo assunto com uma pergunta direta e clara, ou então compartilhe sua opinião, mas lembre-se que estes sistemas não são real-time-chat, mande a mensagem e aguarde os usuários do grupo interagirem a seu tempo.
